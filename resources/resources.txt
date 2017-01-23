@@ -3,3 +3,4 @@
 #vuelvo a cambiar en el master
 #cambio el master para encontrar un conflicto
 #cambio resources para conflicto 
+#cambio resources para encontrar conflicto en el branch cambios
